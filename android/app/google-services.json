@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658228607513",
+    "project_id": "flutter-gsheets-329714",
+    "storage_bucket": "flutter-gsheets-329714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658228607513:android:1944549fcca7c2fb4b8888",
+        "android_client_info": {
+          "package_name": "com.rithish.expenditure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658228607513-fr7evvm2dpclqhtdpa1k3bq7rb9o5m46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUT2jxRGiDW5wNl0HplXQ2tOgKxiwTAl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658228607513-fr7evvm2dpclqhtdpa1k3bq7rb9o5m46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
